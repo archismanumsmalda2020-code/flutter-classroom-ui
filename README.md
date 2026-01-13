@@ -1,16 +1,39 @@
-# classroom
+# 📱 Google Classroom Landing Page (Flutter)
 
-A new Flutter project.
+A beginner-friendly Flutter project that recreates the **Google Classroom landing page UI**.  
+This project is designed to help understand basic Flutter widgets, layout structure, and vertical scrolling using simple and readable code.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🛠️ Tech Stack
 
-A few resources to get you started if this is your first Flutter project:
+- **Flutter** – UI development framework  
+- **Dart** – Programming language  
+- **Material Design** – UI components and styling  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🖼️ UI Overview
+
+The application interface includes:
+
+- A **top AppBar** with the application title and a notification indicator  
+- A **“This Week” section** to display upcoming work information  
+- Multiple **classroom cards**, each showing:
+  - Course name  
+  - Subject code  
+  - Instructor name  
+- A **Floating Action Button (+)** for adding new classrooms  
+- A **vertically scrollable layout** for smooth user navigation  
+
+---
+
+## ⭐ Support
+
+If you find this project helpful:
+
+- ⭐ Star the repository  
+- 🍴 Fork the project  
+- 📢 Share it with others learning Flutter  
+
+
