@@ -27,6 +27,8 @@ The application interface includes:
 - A **vertically scrollable layout** for smooth user navigation  
 
 ---
+## Screenshots
+![image of the landing page](https://github.com/archismanumsmalda2020-code/flutter-classroom-ui/blob/main/Screenshot%202026-01-15%20213251.png?raw=true)
 
 ## ⭐ Support
 
